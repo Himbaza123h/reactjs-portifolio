@@ -27,13 +27,13 @@ function Footer() {
             </a> 
 
             
-        <a href="https://www.facebook.com/"
+        <a href="https://www.facebook.com/profile.php?id=100073290738749"
         className='footer__social-link' target="_blank">
             <i class="bx bxl-facebook"></i>
             </a> 
 
             
-        <a href="https://www.twitter.com/"
+        <a href="https://twitter.com/HonoreHimbaza"
         className='footer__social-link' target="_blank">
             <i class="bx bxl-twitter"></i>
             </a> 
